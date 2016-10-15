@@ -17,6 +17,11 @@ mariadb-devel
 aspell-devel
 recode-devel
 httpd-devel
+libcurl-devel
+readline-devel
+libtidy-devel
+libxslt-devel
+
 ```
 
 # On Debian 8

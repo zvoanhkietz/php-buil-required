@@ -1,5 +1,5 @@
 # On CentOS 7
-
+```
 gcc
 libxml2-devel
 pkgconfig
@@ -17,9 +17,11 @@ mariadb-devel
 aspell-devel
 recode-devel
 httpd-devel
+```
 
 # On Debian 8
 
+```
 make
 libxml2-dev
 libcurl4-openssl-dev
@@ -37,5 +39,6 @@ libmcrypt-dev
 libpspell-dev 
 librecode-dev
 apache2-dev
+```
 
 http://www.tecmint.com/install-and-compile-php-7-on-centos-7-and-debian-8/

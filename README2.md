@@ -4,6 +4,7 @@ gcc
 libxml2-devel
 pkgconfig
 openssl-devel
+bzip2
 bzip2-devel
 curl-devel
 libpng-devel
